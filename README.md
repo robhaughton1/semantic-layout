@@ -25,7 +25,7 @@ This project was created to practice building webpages using semantic HTML. The 
 - Maintaining clean and organized CSS
 - Building layouts that are easy to extend
 
-## Technologies Used
+## Tech Used
 - HTML5  
 - CSS3  
 - Git and GitHub
