@@ -1,4 +1,4 @@
-# Semantic Layout
+# Semantic Blog Layout
 
 A simple webpage built using semantic HTML5 elements and clean CSS. This project focuses on proper structure, readability, and the use of meaningful tags to improve accessibility and maintainability.
 
